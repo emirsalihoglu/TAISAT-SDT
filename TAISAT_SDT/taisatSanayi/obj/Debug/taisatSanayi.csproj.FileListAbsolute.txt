@@ -1,0 +1,21 @@
+C:\Users\Emirhan GÜLER\source\repos\taisatSanayi\taisatSanayi\bin\Debug\taisatSanayi.exe.config
+C:\Users\Emirhan GÜLER\source\repos\taisatSanayi\taisatSanayi\bin\Debug\taisatSanayi.exe
+C:\Users\Emirhan GÜLER\source\repos\taisatSanayi\taisatSanayi\bin\Debug\taisatSanayi.pdb
+C:\Users\Emirhan GÜLER\source\repos\taisatSanayi\taisatSanayi\obj\Debug\taisatSanayi.csproj.AssemblyReference.cache
+C:\Users\Emirhan GÜLER\source\repos\taisatSanayi\taisatSanayi\obj\Debug\taisatSanayi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emirhan GÜLER\source\repos\taisatSanayi\taisatSanayi\obj\Debug\taisatSanayi.Form1.resources
+C:\Users\Emirhan GÜLER\source\repos\taisatSanayi\taisatSanayi\obj\Debug\taisatSanayi.Properties.Resources.resources
+C:\Users\Emirhan GÜLER\source\repos\taisatSanayi\taisatSanayi\obj\Debug\taisatSanayi.csproj.GenerateResource.cache
+C:\Users\Emirhan GÜLER\source\repos\taisatSanayi\taisatSanayi\obj\Debug\taisatSanayi.csproj.CoreCompileInputs.cache
+C:\Users\Emirhan GÜLER\source\repos\taisatSanayi\taisatSanayi\obj\Debug\taisatSanayi.exe
+C:\Users\Emirhan GÜLER\source\repos\taisatSanayi\taisatSanayi\obj\Debug\taisatSanayi.pdb
+C:\Users\memir\source\repos\TAISAT_SDT\taisatSanayi\bin\Debug\taisatSanayi.exe.config
+C:\Users\memir\source\repos\TAISAT_SDT\taisatSanayi\bin\Debug\taisatSanayi.exe
+C:\Users\memir\source\repos\TAISAT_SDT\taisatSanayi\bin\Debug\taisatSanayi.pdb
+C:\Users\memir\source\repos\TAISAT_SDT\taisatSanayi\obj\Debug\taisatSanayi.csproj.AssemblyReference.cache
+C:\Users\memir\source\repos\TAISAT_SDT\taisatSanayi\obj\Debug\taisatSanayi.Form1.resources
+C:\Users\memir\source\repos\TAISAT_SDT\taisatSanayi\obj\Debug\taisatSanayi.Properties.Resources.resources
+C:\Users\memir\source\repos\TAISAT_SDT\taisatSanayi\obj\Debug\taisatSanayi.csproj.GenerateResource.cache
+C:\Users\memir\source\repos\TAISAT_SDT\taisatSanayi\obj\Debug\taisatSanayi.csproj.CoreCompileInputs.cache
+C:\Users\memir\source\repos\TAISAT_SDT\taisatSanayi\obj\Debug\taisatSanayi.exe
+C:\Users\memir\source\repos\TAISAT_SDT\taisatSanayi\obj\Debug\taisatSanayi.pdb
